@@ -95,3 +95,15 @@ position 0 refers to the first card, position 1 to the second card
 etc.
 </details>
 
+<details>
+
+  <summary><b>🛠️&nbsp;&nbsp;Vehicle Purchase</b></summary>
+
+## Instructions
+
+In this exercise, you will write some code to help you prepare to buy a vehicle.
+
+You have three tasks, one to determine if you will need to get a licence, one to help you choose between two vehicles and one to estimate the acceptable price for a used vehicle.
+
+</details>
+
