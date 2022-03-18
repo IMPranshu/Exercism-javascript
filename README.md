@@ -145,3 +145,18 @@ You already digitalized the bird counts per day for the past weeks that you kept
 Now you want to determine the total number of birds that you counted, calculate the bird count for a specific week and correct a counting mistake.
 
 </details>
+
+<details>
+
+  <summary><b>🛠️&nbsp;&nbsp;Gigasecond
+</b></summary>
+
+## Instructions
+
+Given a moment, determine the moment that would be after a gigasecond
+has passed.
+
+A gigasecond is 10^9 (1,000,000,000) seconds.
+
+
+</details>
