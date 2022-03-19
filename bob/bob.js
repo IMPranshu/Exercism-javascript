@@ -8,6 +8,9 @@ export const hey = (message) => {
   if (len == 0){
     return "Fine. Be that way!";
   }
+  if (!(message.match(/[^a-zA-Z]/))){
+    return "Sure.";
+  }
   if(message[len -1] == '?' ){
     message.slice(len-1, 1);
     message.slice(0,1);
